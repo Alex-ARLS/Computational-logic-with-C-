@@ -6,15 +6,15 @@ using namespace std;
 
 int main()
 {
-    int valorProduto;
-    int qtParcela;
+    int valueProduct;
+    int monthlyShare;
     cout << "qual o valor do produto que deseja parcelar? ";
-    cin >> valorProduto;
+    cin >> valueProduct;
     cout << "quantas parcelas voce deseja dividir? ";
-    cin >> qtParcela;
+    cin >> monthlyShare;
     
-    valorProduto = valorProduto / qtParcela;
+    valueProduct = valueProduct / monthlyShare;
     
-    cout <<" a sua parcela será de "<< valorProduto <<" reais por mes";
+    cout <<" a sua parcela será de "<< valueProduct <<" reais por mes";
     return 0;
 }
