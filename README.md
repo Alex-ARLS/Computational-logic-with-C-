@@ -17,11 +17,10 @@ Students who are learning C++ and want to practice computational logic.
 People who want to reinforce fundamental concepts of the language.
 Those who want to practice algorithmic problem-solving with C++.
 🚀 How to Use?
+
 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/repository-name.git
+bash git clone https://github.com/your-username/repository-name.git
+
 Choose an exercise and implement your solution.
 Compile and run the codes to test.
 Modify and try new approaches!
